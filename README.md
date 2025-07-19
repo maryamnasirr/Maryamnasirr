@@ -1,16 +1,19 @@
-## Hi there 👋
+ I'm Maryam!
+ 
+I'm a passionate Content Writer and QA Specialist with 6+ years of experience in academic writing, software documentation, digital marketing content, and quality assurance. I enjoy creating clear, impactful content and ensuring flawless user experiences through meticulous testing.
 
-<!--
-**maryamnasirr/Maryamnasirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I Do:
+- ✍️ Academic & Content Writing (Business, IT, Research)
+- 🧪 Software Testing (Functional, Web/Mobile, Cross-platform)
+- 📊 Data Analysis & SPSS Expertise
+- 🔧 QA Automation Basics & Documentation
+- 📈 SEO Content & Digital Strategy Support
 
-Here are some ideas to get you started:
+🚀 Currently Exploring:
+- 🌱 Technical Writing for Dev Tools
+- 🌐 Expanding into GitHub-based Portfolio Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Let's Connect:
+- 📧 Email: mrymnasir580@gmail.com  
+
+Thanks for visiting! 😊 Feel free to explore my repositories for samples of my work.
